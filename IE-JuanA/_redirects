@@ -1,0 +1,6 @@
+# Redirects from what the browser requests to what we serve
+/home                /Paginaweb.html
+/blog/my-post.php    /blog/my-post
+/news                /blog
+/cuties              http://127.0.0.1:5500/IE-JuanA/Paginaweb.html
+/authors/c%C3%A9line /authors/about-c%C3%A9line
